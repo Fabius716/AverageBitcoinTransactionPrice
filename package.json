@@ -1,0 +1,11 @@
+{
+  "name": "averagebitcointransactionprice",
+  "version": "0.0.1",
+  "description": "Periodically checks the average price of making a transaction with Bitcoin",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "author": "TechFez",
+  "license": "ISC"
+}
